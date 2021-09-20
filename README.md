@@ -50,15 +50,10 @@
 [<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-226047.png" />][python]
 
 [<img align="left" alt="aws" width="26px" src="https://cloudastronautblog.files.wordpress.com/2017/10/aws_logo_smile_1200x630.png" />][python]
-
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][projects]
-
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
 <img align="left" alt="Photoshop" width="26px" src="https://iconape.com/wp-content/files/ix/373285/png/373285.png" />
 
 <br />
