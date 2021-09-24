@@ -57,7 +57,7 @@
 <img align="left" alt="Photoshop" width="26px" src="https://iconape.com/wp-content/files/ix/373285/png/373285.png" />
 
 <br />
-<br />
+
 
 ---
 
@@ -72,12 +72,12 @@
 
 
 
-<details>
+
   <summary>:zap: GitHub Stats</summary>
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadessu)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
+
 
 
 
